@@ -1,0 +1,23 @@
+{
+  "logistic_regression":{
+    "accuracy":0.7381,
+    "precision":0.5043,
+    "recall":0.7834,
+    "f1_score":0.6136,
+    "roc_auc":0.8415
+  },
+  "random_forest":{
+    "accuracy":0.7523,
+    "precision":0.5232,
+    "recall":0.754,
+    "f1_score":0.6177,
+    "roc_auc":0.839
+  },
+  "decision_tree":{
+    "accuracy":0.7402,
+    "precision":0.5069,
+    "recall":0.7888,
+    "f1_score":0.6172,
+    "roc_auc":0.8284
+  }
+}
